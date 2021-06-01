@@ -1,2 +1,2 @@
 # goalyh
-Task manager
+Task manager using MongoDB
